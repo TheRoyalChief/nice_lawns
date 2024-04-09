@@ -1,0 +1,19 @@
+{
+  "name": "nicer_lawns",
+  "version": "1.0.0",
+  "description": "web application for nicerlawns company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRoyalChief/nicer_lawns.git"
+  },
+  "author": "Ricky Lavergne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheRoyalChief/nicer_lawns/issues"
+  },
+  "homepage": "https://github.com/TheRoyalChief/nicer_lawns#readme"
+}
